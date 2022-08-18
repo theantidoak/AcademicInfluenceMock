@@ -1,1 +1,1 @@
-# AcademicInfluenceMock
+# AcadInflMock
